@@ -1,3 +1,5 @@
+![javascript algorithm and data structures!](/assets/js.png "javascript algorithm and data structures")
+
 # 1st Algorithm
 
 ## Binary Search 

@@ -16,7 +16,7 @@
 
 ## Partition
 
-# DataStructure
+# 2nd Data Structures
 
 ## Array
 

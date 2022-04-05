@@ -45,8 +45,10 @@
                 }
             }
 
+    When to use stack? (applications)
 
 
+    
     - ### Queue
     - ### Linked List
     - ### Set

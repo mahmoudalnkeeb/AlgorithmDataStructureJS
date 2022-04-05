@@ -4,16 +4,16 @@
 
 1. ## Data Structures
 
-    1. ### Arrays
-    2. ### Stack
-    3. ### Queue
-    4. ### Linked List
-    5. ### Set
-    6. ### Hash table
-    7. ### Hash table
-    8. ### Tree
-    9. ### Trie
-    10. ### Graph
+    - ### Arrays
+    - ### Stack
+    - ### Queue
+    - ### Linked List
+    - ### Set
+    - ### Hash table
+    - ### Hash table
+    - ### Tree
+    - ### Trie
+    - ### Graph
   
 
 2. ## Algorithm

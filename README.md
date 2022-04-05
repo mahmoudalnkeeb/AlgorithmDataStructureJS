@@ -48,11 +48,10 @@
     When to use stack? (applications)
 
 
-    
+
     - ### Queue
     - ### Linked List
     - ### Set
-    - ### Hash table
     - ### Hash table
     - ### Tree
     - ### Trie

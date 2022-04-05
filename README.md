@@ -2,8 +2,8 @@
 
 # Data Structures & Algorithms
 
-1- ## Data Structures
+1. ## Data Structures
 
-2- ## Algorithm
+2. ## Algorithm
 
 

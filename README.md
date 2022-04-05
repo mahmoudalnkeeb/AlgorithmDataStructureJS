@@ -1,7 +1,9 @@
 ![javascript algorithm and data structures!](/assets/js.png "javascript algorithm and data structures")
 
-# 1st Algorithm
+# Data Structures & Algorithms
 
-# 2nd Data Structures
+1- ## Data Structures
+
+2- ## Algorithm
 
 

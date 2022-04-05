@@ -18,31 +18,32 @@
         in JavaScript we implement stack with array 
 
 
-                    class Stack {
-                        constructor()
-                            {
-                                this.items = [];
-                            }
-  
-                        // Most common operations on Stack 
-
-                        // this method adds one item to stack
-                        push(item){
-                            this.items.push(item)
-                        }
-                        // this method removes the most recent item and return it
-                        pop(){
-                            if(this.items.length == 0) return "empty"
-                            return this.item.pop()
-                        }
-                        // this method only returns the most recent item 
-                        peek(){
-                            return this.items[this.items.length - 1]
-                        }
-                        isEmpty()
-                        isFull()
-                        printStack()
+            class Stack {
+                constructor()
+                    {
+                        this.items = [];
                     }
+
+                // Most common operations on Stack in JS
+
+                // this method adds one item to stack
+                push(item){
+                    this.items.push(item)
+                }
+                // this method removes the most recent item and return it
+                pop(){
+                    if(this.items.length == 0) return "empty"
+                    return this.item.pop()
+                }
+                // this method only returns the most recent item 
+                peek(){
+                    return this.items[this.items.length - 1]
+                }
+                // this method returns true if stack is empty
+                isEmpty(){
+                    return this.items.length == 0
+                }
+            }
 
 
 

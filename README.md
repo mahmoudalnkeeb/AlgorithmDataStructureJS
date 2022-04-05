@@ -5,6 +5,12 @@
 1. ## Data Structures
 
     - ### Arrays
+        
+        Arrays are the most basic data structure
+        in JavaScript arrays are dynamic which means 
+        that we don't predefine type & size
+        [Array in mdn for further reading](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array#)
+
     - ### Stack
     - ### Queue
     - ### Linked List
